@@ -1,0 +1,11 @@
+C:\Users\feng2\Desktop\AucfoDemo\AutofacDemo.Dto\bin\Debug\AutofacDemo.Dto.dll
+C:\Users\feng2\Desktop\AucfoDemo\AutofacDemo.Dto\bin\Debug\AutofacDemo.Dto.pdb
+C:\Users\feng2\Desktop\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.csproj.CoreCompileInputs.cache
+C:\Users\feng2\Desktop\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.dll
+C:\Users\feng2\Desktop\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.pdb
+E:\AucfoDemo\AutofacDemo.Dto\bin\Debug\AutofacDemo.Dto.dll
+E:\AucfoDemo\AutofacDemo.Dto\bin\Debug\AutofacDemo.Dto.pdb
+E:\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.csprojAssemblyReference.cache
+E:\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.csproj.CoreCompileInputs.cache
+E:\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.dll
+E:\AucfoDemo\AutofacDemo.Dto\obj\Debug\AutofacDemo.Dto.pdb
